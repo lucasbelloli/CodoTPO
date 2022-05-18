@@ -144,7 +144,7 @@ padding-right: 2rem;
         align-items: center;         /* alin vert */
         justify-items: center;         /* alin horiz */
         font-family: "boldfont";
-   background-image: url('/images/aula.jpg');
+   background-image: url('images/aula.jpg');
     background-repeat: no-repeat;
     background-position: center;
   background-size: cover;
